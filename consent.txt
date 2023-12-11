@@ -1,4 +1,4 @@
-print("Give me your hand")
-print("I see your future")
-print("I'm very powerful gypsy")
+print("Give me your hand;")
+print("I see your future;")
+print("I'm very powerful gypsy;")
 
