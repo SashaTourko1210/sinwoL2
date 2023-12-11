@@ -1,1 +1,2 @@
 print("Give me your hand")
+print("I see your future")
