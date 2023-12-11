@@ -4,3 +4,5 @@ print("How are you doing?")
 print("Maybe we could go dancing together?")
 print("It's all right, maybe next time")
 print("Bye")
+
+print("Hello, my dear friend")
