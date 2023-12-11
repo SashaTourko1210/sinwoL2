@@ -1,1 +1,2 @@
+print("Sorry, we just opened up")
 print("How can I help you?")
