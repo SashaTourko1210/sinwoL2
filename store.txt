@@ -1,4 +1,4 @@
-print("Sorry, we just opened up")
-print("How can I help you?")
-print("It's our new TV with Ai")
-print("Maybe something else?")
+print("Sorry, we just opened up;")
+print("How can I help you?;")
+print("It's our new TV with Ai;")
+print("Maybe something else?;")
